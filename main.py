@@ -1,5 +1,5 @@
 from professor import Professor
-from aluno import Aluno
+from alunos import Aluno
 from aula import Aula
 
 professor1 = Professor("Lucca")
